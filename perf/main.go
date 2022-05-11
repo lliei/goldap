@@ -4,10 +4,11 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/lor00x/goldap/message"
 	"log"
 	"os"
 	"runtime/pprof"
+
+	"github.com/lliei/goldap/message"
 	//	"strconv"
 )
 
